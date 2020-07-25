@@ -13,5 +13,6 @@ public class Main {
         System.out.println(2);
         System.out.println(3);
         System.out.println("new");
+        System.out.println("master");
     }
 }
